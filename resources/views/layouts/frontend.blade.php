@@ -56,12 +56,12 @@
                     <li><a data-scroll href="#home">Home</a></li>
                     <li><a data-scroll href="#news">News</a></li>
                     <li><a data-scroll href="#about">About</a></li>
-                    <li><a data-scroll href="#tour">Tour</a></li>
+                    {{--<li><a data-scroll href="#tour">Tour</a></li>--}}
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a data-scroll href="#albums">Album's</a></li>
                     <li><a data-scroll href="#media">Media</a></li>
-                    <li><a data-scroll href="#store">Store</a></li>
+                    {{--<li><a data-scroll href="#store">Store</a></li>--}}
                     <li><a data-scroll href="#follow">Follow</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->
@@ -72,7 +72,7 @@
 <section id="home" class="parallax section first-section" data-stellar-background-ratio="0.9" style="background-image:url({{ asset('assets/frontend/images/background.jpg') }});">
     <div class="index-image-overlay"></div>
     <div class="customtitle">
-        <h2>Back <i>to</i> Rock</h2>
+        <h2>p<i>ilots</i></h2>
     </div>
 </section><!-- end section -->
 
@@ -591,7 +591,7 @@
 <section id="follow" class="section">
     <div class="container">
         <div class="section-title text-center clearfix">
-            <h2>Follow <i>BTR</i></h2>
+            <h2>Follow <i>Pilots</i></h2>
             <p>Follow Back to Rock on your social media profiles and get updates / tickets for free!</p>
         </div><!-- end title -->
 
