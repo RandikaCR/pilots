@@ -11,13 +11,13 @@
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
     <!-- Site Meta -->
-    <title>Back to Rock</title>
+    <title>Pilots || Live Music Band</title>
     <meta name="keywords" content="">
     <meta name="description" content="">
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="{{ asset('assets/frontend/images/favicon.ico') }}" type="image/x-icon" />
+    <link rel="shortcut icon" type="image/png" href="{{ asset('favicon.png') }}">
     <link rel="apple-touch-icon" href="{{ asset('assets/frontend/images/apple-touch-icon.png') }}">
 
     <!-- Google Fonts -->
@@ -35,7 +35,6 @@
 
 </head>
 <body>
-
 <header class="header first-header">
     <div class="container">
         <nav class="navbar navbar-default">
@@ -79,7 +78,7 @@
 <section id="news" class="section">
     <div class="container">
         <div class="section-title text-center clearfix">
-            <h2>Latest N<i>ew</i>s</h2>
+            <h2><i>R</i>ecents</h2>
             <p>The latest BTR news is up to events in our concerts here! Welcome to the BTR world! </p>
         </div><!-- end title -->
 
@@ -146,14 +145,12 @@
 <section id="about" class="section wb">
     <div class="container">
         <div class="section-title text-center clearfix">
-            <h2><i>The</i> History</h2>
-            <p>Who was BTR and for what purpose? There is no room for such silly questions! We are here for the music</p>
+            <h2>About <i>Pilots</i></h2>
         </div><!-- end title -->
 
         <div class="row">
             <div class="col-md-5">
                 <div class="section-small-title clearfix">
-                    <h2>About <i>Pilots</i></h2>
                     <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...</p>
                 </div><!-- end title -->
 
